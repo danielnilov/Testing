@@ -330,19 +330,19 @@ color: #fff;
 
 .tabs .tab>input[type="radio"] {
     position: absolute;
-    top: -9999px;
-    left: -9999px;
+    top: 100px;
+    left: 100px;
 }
 
 .tabs .tab>label {
     display: block;
-    padding: 6px 21px;
+    padding: 15px 21px;
     font-size: 14px;
     text-transform: uppercase;
     cursor: pointer;
     position: relative;
     color: #FFF;
-    background: #4A83FD;
+    background: #C60D0D;
 }
 
 .tabs .content {
@@ -351,9 +351,9 @@ color: #fff;
     width: 860px;
     padding: 25px;
     position: absolute;
-    top: 27px;
+    top: 50px;
     left: 0;
-    background: #B30000;
+    background: #868686;
     color: #DFDFDF;
     
     opacity:0;
